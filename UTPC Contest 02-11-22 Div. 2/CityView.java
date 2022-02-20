@@ -16,6 +16,8 @@ Possible Areas of failure and steps taken to rectify them :
 used BigDecimal with precision but with not much luck . Have also used String.format but no luck
 3. Overflow or Underflow in operations like "angle+=360.0d" or "max-min" - Have tried to used BigDecimal again here but not much difference
 
+BigDecimal code is in the same package  : CityViewUsingBigDecimal.java
+
 Currently i am trying to create the failing test case 5. Maybe need some help. Do not want the solution. 
 */
 
